@@ -2,10 +2,10 @@ title: Excelente Web Developer
 author: Luis Davila
 email: lufdate@gmail.com
 description: Es una excemente pagina web
-
+theme : minima
 # social links
 twitter_username: lufdate
 github_username:  DavilaLuis
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme : minima
+
